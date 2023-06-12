@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # Docx
-.doc
-.docx
+*.doc
+*.docx
